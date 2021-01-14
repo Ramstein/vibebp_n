@@ -1,0 +1,19 @@
+/** Let the user modify the
+
+
+#####################################################
+
+1. important things to consider
+--- we do not need the login data, jut need the register data, forgot password, & updata data
+
+
+
+files needs the changes
+includes\class.api.php  - registerUser(), forgotPassword(), socical_login()-even works for registering for the first time
+
+
+includes\class-vibebp-api-token.php -  generate_token(), validate_token()
+includes\functions.php   -vibebp_generate_token()
+
+includes\class.ajax.php  -have the login functions from wordpress
+includes\class.actions.php -have the login functions from various places like checkout page, order

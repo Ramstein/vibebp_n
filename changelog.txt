@@ -1,0 +1,810 @@
+* c10f314 : 1.4.6
+* 2ba1538 : function added
+* e5521fb : actions file fixed
+* b889a89 : fallback layout query added
+* 60e398b : Group creation issues fixed
+* 8023033 : group to support requests
+* 2feec26 : member actions fixed
+* b36adb6 : group button action triggers
+* 61cfd15 : Join and leave buttons for groups
+* 7b89eaf : Switches added
+* 49aa55f : stop request from running multiple times.
+* ef5e330 : group actions fix
+* a6f1860 : live notifications not removing bug.
+* 92953a5 : 1.4.5
+* 5be7c49 : redundant setting came again
+* 650cbee : build files
+* fbc1d45 : minor fixes
+* aea746d : reload_nav also on single page
+* 4e77a4d : build files
+* a825013 : changes
+* 004f01b : console removed
+* 124cb82 : parse error handled
+* fb042de : saving  to db from raw
+* 505baf5 : video plugin to be use
+* 76b97da : plyr update
+* fbe7be6 : bp single page login
+* 0cacad0 : sync logins
+* da94614 : build files
+* 5a0139a : changes
+* 3be74eb : console removed
+* eb88185 : fixed
+* 82fdb46 : error fixed
+* ade310c : functions fixed
+* 4429779 : saving  to db from raw
+* 513ca40 : notes fixed
+* 4025206 : video plugin to be use
+* 1637a30 : styling fixes
+* 66ead00 : login fixes
+* 7e78856 : api call getting redirected by pmpro fix
+* d5ac933 : removed warning message
+* f3e6c79 : version 1.4.5
+* ba72500 : group actions
+* d233a6e : group_button
+* 36ce83b : groups data - group butto
+* 83c3494 : group layout not saving
+* fb54482 : groups desc fix
+* fa154bc : changes
+* 506e119 : array check added
+* db69177 : warning fix
+* 170b82a : build files
+* 51657ca : colors
+* 6ef5dd0 : 1.4.3
+* d1f68b4 : Login by username added
+* 5cb6a6d : Administrator Widgets
+* 9f7969d : Enqueu chatJs default
+* abca863 : Administrator Widgets
+* d132104 : shift profile specific scripts to profile area
+* d5f11c1 : minify js code
+* bbb1024 : send message in card fixes
+* e43303b : sales stats added
+* c77f044 : total sales and payment count query added
+* 13f8b11 : sales widget initialized
+* 33051f7 : dynamic filed can be added
+* f551078 : users report widget added
+* 19fc774 : users reports widget initialized
+* bb91695 : server-stats widget added
+* b8fafa2 : widget showing on dashboard
+* 0a1f4cd : class.widgets.php added for multiple widget
+* 37e0aa4 : server-stats widget initialized
+* 0e118f9 : updated translation files
+* 4759eb2 : message box css added
+* 2e4922e : flicker issue in profile menu with expanded menu
+* 3290735 : 1.4.3
+* 8360204 : time_since resolved
+* fad4ca9 : show default login via Email option
+* 4444f84 : set player colors
+* c0785d2 : trigger when all members loaded in the directory
+* 968edb1 : email login first screen
+* e9b7b5c : RTL support for elegance
+* ee5d451 : load login menu once
+* 4ce1315 : trigger chat handle
+* 7ae3ecc : Trigger live chat option added
+* 7f4540d : fixed login issues
+* 6d2f5c2 : Actions in VibeBP Members
+* da37f46 : country field in registration form
+* 604c910 : empty check
+* b078a0d : date field fix
+* dad5233 : trim unused caps to reduce token size
+* a300294 : 1.4.2
+* 6ec3c28 : Notifications fixed
+* 9f0cb0c : PWA icon issue not appearing
+* 0cbac86 : Android app support
+* 206433d : 1.4.1.1
+* 7228a6f : manifest color and icons
+* cd826a8 : login bug fix
+* ec099a2 : update translations
+* 8cda6c2 : select color aschemes
+* 8cb0fa5 : PWA generate_apps
+*   2d9546d : Merge branch 'develop' of https://github.com/MrVibe/vibebp into develop
+|\  
+| * 26c3d1d : manifest moved to site root
+| * 670f942 : version 1.4
+| * a060e83 : bettter error messages
+| * c9d0903 : Mobile app builder code
+| * d70dd0e : css profile fixes
+| * 108df8a : css fixes in dark mode
+| * 4cc3bb8 : editor fixes
+| * feb5ced : filter on nav
+| * 7b11d45 : notes fixed
+* | 4745e6d : fix for admin referrer in setup wizard
+|/  
+* 2d59b50 : styling fixes
+* 892d6e2 : color fixes dark mode
+* 1a1227f : icons support for elengance
+* 1f1bcfb : build
+* 3f8f75d : export fixed and build file added
+* 8454ad3 : export data api initialized
+* 447dc29 : Group forum bug fix
+* 0250ac1 : better hide sidebar
+* 4b3eb10 : group forums
+* 957a6d6 : Fatal bug resolved in Editor
+* f07d8b9 : Porilfe layout and cards resetting when elementor saved
+* 9ea99de : dark style colors not applying
+* be9b09e : Default dark style
+* c222377 : Math in EDitor and Image resizing
+* af2578e : permanenet expanded menu
+* 8bb8bf9 : woocommerce order in dark menu
+* 04c27db : filter change
+* df8a30f : filter for adding more profile data
+* a1a83cb : math in editor
+* 30a10fe : RTL Firebase
+* 5a61fb5 : login css
+* 6973eab : add theme style on profile
+* 6112967 : Max timeout on login verification to avoid … issue
+* 5bc4087 : warning on login and registration checkbox
+* 37c59db : registration checkbox bug
+* 7683cbc : vibebp carousel
+* 09626c0 : VibeBP Grid
+* ae3b081 : Elegance theme
+* 38dd73b : Generate toekn function
+* 481ce90 : check user_caps
+* 1f474cb : vibebp theme style
+* 968a471 : dark mode and other icons added
+* eb66ec4 : warning message on dashboard
+* f4ca895 : stop query logic added
+* de844d3 : 1.3.1
+* ea7e55b : wait for user loaded to trigger for firebase
+* b263585 : live notifications tab in firebase not working
+* cf4317a : logged in menu call only once
+* c628d06 : loader in groups
+* fd31ade : enqueu live after login file
+* 3b823d4 : group creation fixed
+* 6f10087 : notification messages not appearing
+* c0b0d40 : Notifications not working
+* bd8f6f0 : Live not working fix
+* b5e0761 : Token issue and uploading fix
+* 03ea5c0 : group forums and member control
+* c4d150a : group id misisng in layout
+* 37d3bea : member card showing other user info fix
+* 738c554 : checkbox field filter fix in members directory
+* 5d89e0f : wp_filter_no_html_kses to wp_filter_nohtml_kses fix
+*   4d8076e : Merge branch 'develop' of https://github.com/MrVibe/vibebp into develop
+|\  
+| * 1f1d296 : price of addons
+* | 26d45d0 : removing console
+|/  
+* f623778 : fixed
+* 72cf950 : 1.3
+* 79cd7ce : icon issue resolved in PWA
+* d596236 : login to support html
+* e0a206c : chat tab fix
+* 410c08e : card option added
+* 6a635d2 : addons added
+* ec68475 : icon fix
+* 5105e92 : HTML in login heading. Add your site logo in login
+* 23831c3 : pagination reset on fillter pplied
+* 0d7ddb0 : Member and Group cards supported
+* 32c5d8c : member type and group type cards
+* d347e8b : group card request
+* 7b8eaa1 : Custom Profile layouts for Members
+* 813413e : show only fields which are assigned to member type
+* 65faf9b : levels age issue fix
+* ea84b1b : search columns should include display_name as well
+* 773b3a7 : change user_nicename to email to support cryllic characters
+* f0a484d : provision for first load added but not active.
+* 80c5a73 : search in groups
+* b8bf0b7 : mobile field for phone auth
+* 9f42254 : some css fixes
+* 09afbf1 : 1.2.1
+* d6e1714 : member type dashboard
+* c4ee581 : profile field block showing all content
+* 80bca48 : 1.2.0
+* d29fb63 : login redirect working
+* 72f3249 : Usermenu bug fixed
+* 6b49015 : fallback for transients as security plugins remove transients.
+* 9fe28ff : dashboard widget css fixes
+* 12ea5c4 : shop orders showing all orders
+* 520825c : Site activity filter for adminstrator
+* 9938c31 : click on toggle not working resolve
+* fd9ed2a : directories in PRofile area
+* 90dfb68 : user not registered then no token return
+* e70cb0b : directories in PWA
+* b6fae1a : firebase live conditional
+* e7fd9d7 : add menu for not-defined items
+* c8f8135 : menuID incorrect passed
+* bccfb19 : phone auth provision
+* 51de48b : merge fixes
+*   c690aaa : Merge branch 'a' into develop
+|\  
+| * 76b54b3 : fixes in live chat
+| * b867eb1 : disbale live on site front end fix
+| * 8c7c18f : live chat working
+| * 212e11d : missing coln
+| * 997eea6 : profile based menu
+| * 2dea7ed : live chat fixes
+| * a07c197 : removed not required code
+| * 49bb459 : on open chat setmessage to blank
+| * 1b8c5be : timer component fixed
+| * 016ff22 : custom event added
+| * 81e4f4c : issue on accept not working
+| * 239f8a9 : console removed
+| * 3a8f699 : multiple time firebase query run fixe
+| * 7f9cfe4 : exit add new chat fixed
+| * ec9588f : some check if firebase return unexpected data
+| * 3c6e549 : notification fixed on accept
+| * 0f4dbae : avoided invite if already member
+| * 9fe9f81 : fixed issue with notification
+| * 345fe79 : mark all read fixed with status  = 1
+| * 2df3a45 : invited issue fixed
+| * aa8f9af : notification bug fixed
+| * 24588cc : tab open fixed,debugger remove ,online members undefined issue fixed
+* | fb7bd31 : sessionStorage now saved user login status
+* | 291279f : 1.1.9
+* | 513dedb : Updated Translations
+* | d01a89a : Login and registration checkboxes added
+* | a2d7498 : Login terms and Registration terms
+* | 9efadba : Social Login validate via firebase token
+* | a696afe : social login fix
+* | fd5a00b : social login security
+* | a8c9d6a : recapture firebase public key every 15 minutes.
+* | 17688ab : Login now sends firebase ID Token for validation
+* | 697e60b : JWT validation
+* | 1487e57 : send idToken for firebase validation
+* | 46a21ee : acces token verify
+* | cfc5dc5 : updates on admin_init
+* | 54ce98a : retain formatting
+* | 6d8639a : Expadn token is now a function to be used in plugins.
+* | 957d892 : Last activity time not properrly recorded in buddypress for user.
+* | 1560dbf : Setting Token issue fix
+* | f630852 : 1.1.8
+* | 4b9ac44 : external link support in menus add external_link class
+* | 4a5006e : jquery ajax removed to xhr
+* | 1207e68 : login without reload
+* | f31dbd0 : external link support in profile and menu, external_link class on menu item
+* | 66ec049 : expertise added in samepl data improt
+* | 698e0cf : 1.1.7
+* | 7284fd7 : translation files updated
+* | 439e6b6 : build files
+* | 0cb089d : group name not appearing in search
+* | 6cd8c81 : tablet width fix
+* | 0f528ee : color fixes.
+* | 2de56ca : fixes
+* | 29575b0 : repeatable field type
+* | 63aaf69 : elementor styles not appluing in member profile
+* | 48ea203 : changelog
+* | 767d2b5 : removed force logout
+* | 379e9e6 : 1.1.6
+* | 19cebe2 : password not setting issue fix
+* | 408c435 : 1.1.5
+* | dc8e1d8 : filter in attachments
+* | 7c0215f : trigger login from outside
+* | d06eeef : tus upload issue
+* | d8052c2 : media modal pagination oissue
+* | 7ec45b4 : signin working.
+* | 4949bc3 : Activate user fix
+* | 063ae14 : var added in XHR request
+* | 423cb1c : var missing in XHR
+* | 1f0e3c3 : error message not showing at registration
+* | ce2ab3e : 1.1.4
+* | 86c703e : button fix
+* | 21d8494 : 1.1.3
+* | e23a687 : button colors fix
+* | 261bbd9 : pot files updated
+* | be366a6 : wplms  to vibebp
+* | 913203d : fixes
+|/  
+* 034deaf : token keyword set to token again.
+* 1f75eee : changelog
+* 5099896 : 1.1.1
+* 7fa8214 : translations updated
+* e695c5e : force remove default views
+* e8cbf84 : completed
+* f6c37c1 : default logout
+* 66ae021 : pmpro memberships
+* 358a2ee : login via enter key press
+* d37ebaa : settings js
+* 4495be8 : force logout from wordpress
+* 98dfae2 : changes logout trigger added
+* d5f64d3 : class exists check
+* 888ad11 : styling fixes
+* c2391ed : text shadow removed
+* 66fe238 : icon font overwrite issue fixed
+* 244ea53 : email template file fix for emails not working
+* 14e2dc4 : course avatar aupport added
+* 5f931c4 : pmpro check added
+* 61583de : fixes
+* d1d46a3 : empty nav warning
+* 07e0d3a : supported end points for woocommerce in bp
+* b96e298 : flex1 removed from vicon in login
+* cb1969b : automatically enabled left isdebr minimise on mobile
+* 7c9735b : stop propagation
+* 4b53a14 : force login on pmpro pages
+* e63a4ec : pmpro profile
+* 62d7f6a : group create not showing fix
+* da73922 : updated pot
+* 895fd5a : edit media momdal close fix
+* bcb9217 : Refresh BuddyPress Nav added
+* a89db70 : key from wplms_purchase code
+* 4b2a13c : fixes in live
+* f6f4f74 : open filters by default
+* 58c8d59 : set guid for page
+* 1f29c7c : notice fixes
+* a61161d : 1.1
+* c17a69f : upadted styling
+* 1f8ba9d : check if members directory is already imported
+* 62af2ca : login terms
+* 48cd495 : cursor pointer
+* 6974c92 : hide panel
+* 3dba4bf : scroll in chat online mebers
+* 6865953 : hook for registered members
+* e238bae : memebrs directory and last child in mobile screen
+* aeb8437 : custom payment gateway conflict
+* af411f5 : groups restrictions added
+* dd2aa99 : styling fixes
+* 26aeb1f : signin added
+* 7fe028e : groups tabs
+* c53ab84 : removing from localized data
+* d115417 : forgot pwd email bug
+* 42169ac : translations updated
+* 7554606 : 1.007
+* b09e2c0 : minified scripts
+* 06e6010 : brand icons provision
+* 456f939 : add active component class on body
+* 60fda90 : email exists check & user can
+* 35c64df : transparent header fix
+* bee6eff : brand icons
+* 9456d65 : woocommerce auto login
+* fa3d65b : change group tabs conditional hanlding
+* aeedaf7 : Option for multiple profiles and Group layouts
+* 8c9814d : gorup tabs with group id and user id to check capability
+* 83e464c : chat menu fix
+* f656556 : fix
+* e1e3208 : trigger login from evnet
+* f1b653a : forgot password email tempalte
+* af3522d : remove redundant files
+* f320b00 : 1.006
+* bbf1bd7 : login should trigger on all classes
+* ec6bbbf : better arrows for minimise detection
+* 644fbf3 : bp_is_active check
+* 37407fc : directories pagaination refined
+* 0a9751f : force localforage enqueue in login.js
+* 336a127 : disable transform as it adds flicker
+* e3cd4b9 : removed old changelog.log
+* c4253f2 : editor inline css
+* d008411 : 1.005
+* ff33689 : packed
+* 1ecbc48 : translations
+* a4f5063 : styling fixes
+* b3bccd5 : mobile sticky bottom menu
+* 9dd1474 : overlapping buttons
+* 1300e4b : draftjs editor controls z-index issue
+* 2fd7d66 : social login security check for cached pages.
+* 45d44a8 : bug fix, for reload_nav
+* 3cc5d81 : saving transient correctly
+* 5a5cef7 : enable registration options
+* 4144ba6 : plyr ref added
+* c7a3677 : On add close modal added
+* 025d721 : video,audio fixed,embed added
+* 8e44cd7 : translations
+* 4108821 : 1.004
+* 23b0100 : udpated pot
+* b74d144 : add filter in profile field saving
+* 3c0b101 : client id instead of security key
+* 525de9d : 1.003
+* 2af2c08 : bug fixes
+* 658502b : visibility and email settings fixed
+* 5f0d32c : translations
+* 72ff86d : 1.002
+* d825168 : better reload nav handling
+* 414b334 : enable registration options
+* c85ff2d : login fixes
+* d0f21a4 : warning fix
+* 2f2b48e : fix
+* c5f48a5 : 1.01
+* 7edd097 : hide title
+* 9c43bff : login heading and message
+* 7c5d276 : version should not apply on fonts
+* c3162db : multisite fix
+* bafc912 : sw fix
+* 112cea2 : notice fixes
+* ab5e608 : notices fixes
+* 2724b3d : minified scripts
+* 3e0c5fa : translations updated
+* 1fe7cb8 : version1.0
+* 2c9cfc1 : autoupdate complete
+*   8626440 : Merge branch 'develop' of https://github.com/MrVibe/vibebp into develop
+|\  
+| * 40b5993 : font end buttons
+| * 64b0495 : overflowvisible on pusher
+| * f1cbfb3 : default options
+* | f51cd99 : rtl header z index issue fix
+|/  
+* 0260485 : profile fixes
+* cd1ac9c : setup wizard typo fix
+* cdba629 : minified
+* 5a0b305 : translatiosn updated
+* abb7ffc : profile and css compiled
+* ce373e5 : function eixsts check
+*   e2a45bd : Merge branch 'develop' of https://github.com/MrVibe/vibebp into develop
+|\  
+| * 692a59d : group card fix
+| * 6b9dd54 : do not set pages automatically for existing wplms
+| * 7af2659 : wizard completion
+| * f1796ff : tougher security filter
+| * f42d151 : members directory fixes
+| * 58f16b9 : responsive fixes
+| * b628881 : notice fixes
+| * 643c8d2 : translations
+| * ac14ab6 : setup
+* | 5bdd9a8 : rtl mobile css
+|/  
+*   5f2e7b1 : Merge branch 'develop' of https://github.com/MrVibe/vibebp into develop
+|\  
+| * 9ff4d03 : complete
+* | b309c23 : mobile css changes
+|/  
+* 3c83b69 : setup wizard menu fix
+* 61e784a : setupwizard and more
+* eb66d97 : fixes
+* e47fc15 : profile
+* f05c456 : font css updated
+* 1e3fed9 : wp login sync
+* b2955a3 : switching between components
+* 2d61502 : fixes
+* 45e7e81 : notices fix
+* 5d10514 : version
+* 3e70a7f : rtl css 2
+* 1ee66f8 : rtl css
+* 2654237 : chages
+* b088000 : setup wizard
+* cb8b999 : customizer colors
+* e82effe : accessibility
+* 353a628 : service worker final
+* f9fddac : chat
+* dc82c6e : setup wizard complete
+* 44caaf0 : service worker
+* 30d81ba : fixes
+* 8be8e92 : fixes
+* 655a8ca : black image fixed but preview not working
+* 151de33 : fixes
+* 7c8b9a4 : context
+* 872afe3 : cropper attempt
+* 0589d32 : star message fixed bulk actions added
+* 603983f : vibebp_final
+* b25c1af : avatar and croppers
+* 0d14805 : message fixes
+* 92c94bf : message fixes
+* 84f3ddf : login sync
+* 7df6be7 : Login sync and Token duration
+* 18ff32b : groups notifications activitiy issue fixes
+* 5da1d95 : message styling fixes
+* 0c41d12 : external upload
+*   2417dbf : Merge branch 'develop' of https://github.com/MrVibe/vibebp into develop
+|\  
+| * f5de5ef : bug fixes
+* | 3449b84 : start unstar message added, activity labels removed
+|/  
+* 6f81845 : bug fixes
+* aa5dbc6 : elementor field fixes
+* 1cb096b : super bug
+* d94e6e3 : changes for finale
+* fb8ee0d : directories complete.
+* c5c7ccb : dashboard stackable.
+* a924ef7 : elementor blocks
+* ebb19cb : version
+* 0678398 : tus implemented
+* 0633463 : fixes
+* fbf48f7 : bug fixes
+* f35b040 : fixes
+* 7f8fd7b : version
+* 8243f92 : dashboard
+* f0049af : finalise
+* cc4ad03 : signin loading
+* 720b05f : reset service worker
+* 72725d0 : media stream
+* db94ee1 : styling fixes
+* 5fc1a7f : widget drag issue fix
+* 169f465 : token update
+* 48f6ef6 : caps added in token
+* 844d1b9 : verify fbase keys
+* a6c1f12 : chat & colors
+* d70b01a : widgets width fixed
+* 55fafb3 : edit issue in question options and assignment
+* 2b8ac25 : finalizing
+* ef871c4 : cache busting in service worker
+* 3d18a07 : styling fixes
+* cf6b0b2 : message fixes
+* faf8c69 : notification s & messages css changes
+* 3d83e90 : styling fixes
+* a324d18 : style changes
+* c951af8 : new vars
+* 2289923 : profile avatar not from token from api
+* 327aacb : minified
+* a8951d7 : edito complete
+* 4c6b2d5 : editor bugs
+* 10bfeb7 : avatar image upload fix
+* 297e0ab : editor fixes
+* a172e09 : manifest
+* c241c2a : working live chat
+* 8a43016 : service worker path
+* 111d689 : working pwa
+* 426a142 : improvements in pwa
+* 5ae7ae7 : custom settings in profile settings
+* a3aac6c : fixes in service worker
+* ed7f910 : dynamic service worker
+* ca1c948 : service worker
+* b5f4ecd : syntax error fixed
+* e676494 : serup wizard react
+* 33a4b54 : service worker and manifest
+* 0098b28 : splice issue fixed
+* 71f5f0a : form fixed
+* 3573565 : vibeform component used
+* 60b7a77 : debounce added in search
+* b622d17 : form fetching added
+* fc991bf : form shortcode initialized
+* 012ac26 : backend settings
+* 14a7dbe : tab css issue
+* 17a458a : css fixed
+* 8dd2592 : tab css issue
+* a5edc98 : tab initialized
+* 3677a6f : accordion remove added
+* b0da19f : accordion added
+* 455b9cf : accordion new section create added
+* bd91c02 : accordion initialized
+* c6af9ac : function for header part
+* be43437 : console removed
+* ead0961 : style applied to editor
+* 1af3cfd : note added in editor
+*   70e4191 : Merge branch 'develop' of https://github.com/MrVibe/vibebp into develop
+|\  
+| * 124cd0f : css changes
+* | 9dcf883 : error  fixed
+|/  
+* 0cacbec : appearing modal
+* 30e7cea : changes
+* 4830957 : shortocde
+* 601c853 : shortcodes
+* c02d8ca : note modal initialized
+* e41de7a : add note button added
+* 508e485 : fixes
+* c2fe42b : disabling mathjax temporarily
+* d3396ba : editor fix
+* b9395de : installer
+* b38f0a6 : fixes
+* 0a8ad32 : setup wizard init
+* 96691e6 : sw
+* 300a867 : setup wizard init.
+* 968490b : setup wizar dinit
+* 72e8076 : manifest file
+* 659ba38 : service worker
+* da7a5cc : service worker
+* 10579c1 : editor now supports single instance
+* 9899813 : realtime notificaitons now working
+* 623e881 : firebase notifications & groups
+* 74e7dca : uploader
+* 982f2b7 : pickers
+* dd93598 : fixes
+* c058579 : finalising version 1.0
+* 476d5a7 : login
+* 84441dc : change button
+* 9992859 : fixes
+* 6795ba5 : login options
+* f1593a6 : finalised
+* 6e2b76a : dashboard fixes
+* d8c666f : batch by default removed
+* 44cc70a : Tabs in groups
+* 10c36e3 : load firebase dynamically, avoid script overlap
+* be1f0ec : login
+* ab2a6e3 : shortcode
+* d1da8a5 : shortcodes
+* e9aa8fa : style changes in activity
+* 782883d : modal css
+* 06cffae : inline editor
+* cce6110 : editor changes
+* a6758a0 : math
+*   0b70d4b : Merge branch 'develop' into d
+|\  
+| * ad243ff : editor
+* | 20085a9 : d
+* | e279594 : updated git ignore
+|/  
+* 28c7faf : css
+* c79bc16 : forgot password and card creator
+* 32be876 : service worker cache and test
+* 25fad22 : sw_enabled switch
+* 1f937cd : enabled setting
+* db2caa1 : remove post
+* 6e4f4f0 : labels code moved
+* cdbb7d5 : service worker
+* 1542a45 : friends and followers fixes
+* 1b19e95 : field fixes
+* a0feb3c : messaging
+* d285a1c : restructuring
+* 0392748 : settings and multiselect
+* 4c3a7f6 : caps and roles added in vibebp
+* a0bfe3b : customizable dashboard with drag and drop and remove.
+* 91a70c5 : console log removed
+* 439a508 : registration
+* 0291104 : customizable dashboard with drag and drop and remove.
+* 8c523ac : filter fixed
+* cbe4a9b : translations and login settings
+* dc58133 : groups activity fix
+* cee81c4 : fixes
+* 55ee85e : sla count function moved to help-desk
+* b3a431d : help desk code moved to help desk repo
+* 2496f8f : save form fixed
+* 3056773 : labels creation form js added
+* 4d1e5ae : assign label added in user page
+* c2d22b2 : label support added
+* e2570ae : helpdesk extracted
+*   bfe4e06 : Merge branch 'helpdesk' into develop
+|\  
+| * 286be72 : bbpress removed
+| * bd77a5f : extracted helpdesk into a new plugin
+| * 106e0bf : agents dynamic labels added jquery
+| * febacdd : sla caculation for topic id function added
+| * 4945fd5 : form fixed for tab
+* | 8acb875 : kb extracted into plugin
+* | eac657a : kb extracted
+* | ebdf457 : addons css in admin
+* | b060c76 : fix for get_object_vars is fetching empty value
+|/  
+* d224a81 : profile grid css
+* b58692d : styling fixes and finalizing
+* 2453774 : updated profile
+* 0f0806e : sidebars with position sticky
+* 0816865 : updated css
+* fb02a11 : state.data error.
+* 15ed530 : wrapper added
+* 4262811 : elementor updated
+* 4e60382 : onSubscribe calls bug fix
+* 2a54862 : onsubscribe calls
+* 8c22e84 : infinite loggedinmenu calls fix
+* df382df : body selector
+* 0b9dd63 : fb social login fixes
+* 15b3851 : different login options
+* 660cee3 : default login fixes
+* 6b1043a : login fixes
+* fe88f13 : firebase auth
+* 1a98a21 : no idtoken
+* 977f5de : Login update
+* c693200 : login
+* 0a52b0b : updated config
+* 9ead5c3 : git ignore
+* 3dc9350 : Calendar setting
+* 36a9648 : styling bug fix
+* e18cc89 : editor sass
+* c842752 : initiating calendar
+* 06c1b1f : articles and wiki removed for testing
+* efdcc0b : Restructuring 2
+* 83b212e : restructuring
+* 49dd937 : bug fix in firebase modules
+* e5c6f8e : template_Stack fix
+* 7d6ca51 : updated script paths
+* e08c1a7 : updated webpack and files
+* 9a44da6 : bp
+* 96d8453 : KB & Editor
+* 07fd064 : wiki/kb added
+* 7f57e3a : WC exists
+* 584295b : article s & wiki
+* 29a6c50 : shop and wiki
+* d5893cd : BBPress in profile
+* 7443cd8 : BBPress forums
+* d158212 : members map
+* 76147f6 : member grid
+* 3317c4e : vibebp live modules
+* 3fe1bf9 : api & chat
+* c089e70 : firebase login fixed
+* f3abf8e : followers
+* f55923e : firebase login
+*   7eaf7a6 : Merge branch 'develop' of https://github.com/MrVibe/vibebp into develop
+|\  
+| * 7dcef06 : followers
+* | 7f69b6c : plguin description & other bugs
+|/  
+* a40f51d : followers init
+* f57ed1e : following
+* 7aea5de : bp followers and likes
+* c6ae912 : vibebp member filters
+* 252a2ff : Google maps location object
+* 8764163 : location & geocode
+* 554b787 : google maps api key
+* 684cb03 : new custom profile fields.
+* 32d868c : profile data
+* fc7b82f : buddypress profile data
+* ecdaec8 : profile loading for other users.
+* 44ef4bb : Profile data
+* 4d4b45d : restrucutre
+* faedf4d : groups and member directories
+* 66dc980 : groups directory
+* 3ca5942 : member types and group types
+* 56c3626 : elementor groups
+* 150ac78 : profile avatar settings
+* e59023b : directory & Filters in elementor
+* 6106a57 : fixes in groups component and meta for custom blocks.
+* 4d1d47c : message attachments complete
+* 4b14b5c : post & avatar
+* f8d73eb : vibebp profile builder
+* 5df1ab2 : enable elementor for layouts
+* 3644b64 : field_loaded event
+* 6208554 : edit profile
+* ff94d3a : edit profile
+* 303fcc4 : profile - settings
+* a8b5c41 : friends actions
+* daee99a : remove friend
+* 34253fd : Friends
+* 99578b5 : message component CSS
+* 59f94a9 : group members
+* 94e9442 : groups
+* 1140461 : groups members
+* 7d74fce : controller & uploader
+* 13804f1 : group-members
+* 72a169e : groups
+* 8d515ee : groups
+* 5535a8a : fullgroup
+* 8307ecb : full group
+* ef14140 : uploader create group
+* 185ff6a : group creation
+* e5785f1 : new
+* 9d092a9 : new group
+* 3c976d3 : store changes
+* b849a8c : avatar uploader and cropper
+* d9b52f5 : group creation
+* a9d3bae : new Group
+* 32b80f2 : groups
+* 1c84239 : starting groups
+* e3bb63c : add labels in messages
+* 567aa16 : new message working
+* 1bc8a78 : BuddyPRess messages nearing completion
+* d3a0342 : full message
+* db03fa8 : new message
+* f35ad66 : css fixes
+* a8c9c51 : activities block
+* 4d44e38 : messages & filters
+* aafe0c8 : messages with search and searchbox
+* cf69796 : messages and notifications
+* 0729dff : notifications start
+* a4d88b4 : activity module
+* 26ab097 : activity post
+* dc280ea : commiting
+* 47c88b0 : activity in final
+* a863019 : removed bp_set_nav
+* 71be3ce : activity module
+* 907cb3b : profile and buddypress
+* 1c510c4 : MENU
+* 3e08a29 : login wtih redux
+* ceae6d6 : fix for html showing in profile field .
+* c15745c : login and profile
+* c1c4f82 : buddypress template overrides
+* 4238e36 : profile link
+* 6c3612c : jwt authentication complete
+* 9f1cc27 : Add to appointments api
+* 5339b73 : public friends block
+* e674576 : carousel script and default avatar image path changed
+* 6c0f2b1 : restructuring
+* 0142386 : layout and reg forms in settings
+* 4a59532 : default bp blocks with typography controls
+* 980d29e : typography contols
+* d65a8cf : added toolbar and typography controls over
+* efdd72d : icon changes and blocks removed
+* 25602d4 : field style
+*   796c2e3 : Merge branch 'blocks-merge' of https://github.com/MrVibe/vibebp into develop
+|\  
+| * 382c9fe : merging
+* | 56aef3e : gitignore
+|/  
+* e8dd4e4 : some fixes
+* 1be39d6 : lastactive
+* cf1ea9a : include templates class
+* 654cf50 : overridden buddypress templates
+* 9530c7d : init
+* df9abc6 : layouts gutenblocks
+* 97f5c95 : working with xprofile field
+* 6508ef3 : profile api initialized
+* 2784aa5 : email-notification setting api added
+* 8724efd : favorite activity pagination added
+* f87fa49 : notification and activity api added
+* 2938f58 : notification api initialized
+* eed240d : message component api initialized
+* 13c39ba : fetch group members api added
+* a47ffb8 : join and leave group api added
+* c20add9 : groups and members api using buddypress function
+* 25e289e : response and friend component added
+* b140e1b : buddypress api added
+* 81989c1 : some fixes for messages
+* 0fb83b3 : change log added
+* fb5be41 : exception fixed
+* 0c5442a : genrate and validation token api added
+* 56ea95f : readme text file added
+* 18a2e5c : Plugin initialize
